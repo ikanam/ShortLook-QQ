@@ -3,7 +3,7 @@ Name: QQ Profile Pictures for ShortLook
 Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Show QQ users' profile pictures in ShortLook when you receive a WeChat notification!
+Description: Show QQ users' profile pictures in ShortLook when you receive a QQ notification!
 Maintainer: Jianan Tian
 Author: Jianan Tian
 Section: Tweaks (ShortLook)
