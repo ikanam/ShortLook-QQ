@@ -7,7 +7,10 @@
 	<key>DDNotificationExternalProviderClasses</key>
 	<dict>
 		<key>QQContactPhotoProvider</key>
-		<string>com.tencent.mqq</string>
+		<array>
+			<string>com.tencent.mqq</string>
+			<string>com.tencent.tim</string>
+		</array>
 	</dict>
 	<key>DDNotificationExternalProviderAPIVersion</key>
 	<integer>1</integer>
